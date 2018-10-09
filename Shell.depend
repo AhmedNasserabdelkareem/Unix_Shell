@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1539043804 source:/home/ahmednasser/Desktop/Unix_Shell/main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<unistd.h>
+	<csignal>
+	<sys/types.h>
+
